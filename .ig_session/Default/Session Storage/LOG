@@ -1,0 +1,53 @@
+2025/08/28-19:11:46.807 19f8 Reusing MANIFEST C:\Users\bharg\instagram_scraper\.ig_session\Default\Session Storage/MANIFEST-000001
+2025/08/28-19:11:46.812 19f8 Recovering log #4
+2025/08/28-19:11:46.815 19f8 Reusing old log C:\Users\bharg\instagram_scraper\.ig_session\Default\Session Storage/000004.log 
+2025/08/28-19:16:58.703 19f8 Level-0 table #8: started
+2025/08/28-19:16:58.723 19f8 Level-0 table #8: 15340 bytes OK
+2025/08/28-19:16:58.786 19f8 Delete type=0 #4
+2025/08/28-19:21:22.491 19f8 Level-0 table #10: started
+2025/08/28-19:21:22.503 19f8 Level-0 table #10: 15317 bytes OK
+2025/08/28-19:21:22.516 19f8 Delete type=0 #7
+2025/08/28-19:28:40.631 e88 Level-0 table #12: started
+2025/08/28-19:28:40.668 e88 Level-0 table #12: 15574 bytes OK
+2025/08/28-19:28:40.684 e88 Delete type=0 #9
+2025/08/28-19:34:33.056 19f8 Level-0 table #14: started
+2025/08/28-19:34:33.364 19f8 Level-0 table #14: 15364 bytes OK
+2025/08/28-19:34:33.385 19f8 Delete type=0 #11
+2025/08/28-19:41:33.103 e88 Level-0 table #16: started
+2025/08/28-19:41:33.119 e88 Level-0 table #16: 15548 bytes OK
+2025/08/28-19:41:33.128 e88 Delete type=0 #13
+2025/08/28-19:41:33.134 e88 Compacting 4@0 + 1@1 files
+2025/08/28-19:41:33.175 e88 Generated table #17@0: 2384 keys, 35430 bytes
+2025/08/28-19:41:33.181 e88 Compacted 4@0 + 1@1 files => 35430 bytes
+2025/08/28-19:41:33.204 e88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/28-19:41:33.209 e88 Delete type=2 #8
+2025/08/28-19:41:33.209 e88 Delete type=2 #10
+2025/08/28-19:41:33.209 e88 Delete type=2 #12
+2025/08/28-19:41:33.209 e88 Delete type=2 #14
+2025/08/28-19:41:33.209 e88 Delete type=2 #16
+2025/08/28-19:46:34.381 19f8 Level-0 table #19: started
+2025/08/28-19:46:34.435 19f8 Level-0 table #19: 15089 bytes OK
+2025/08/28-19:46:34.446 19f8 Delete type=0 #15
+2025/08/28-19:51:05.045 e88 Level-0 table #21: started
+2025/08/28-19:51:05.058 e88 Level-0 table #21: 15430 bytes OK
+2025/08/28-19:51:05.065 e88 Delete type=0 #18
+2025/08/28-19:55:07.823 19f8 Level-0 table #23: started
+2025/08/28-19:55:07.847 19f8 Level-0 table #23: 15712 bytes OK
+2025/08/28-19:55:07.856 19f8 Delete type=0 #20
+2025/08/28-20:00:32.939 19f8 Level-0 table #25: started
+2025/08/28-20:00:32.973 19f8 Level-0 table #25: 15203 bytes OK
+2025/08/28-20:00:32.980 19f8 Delete type=0 #22
+2025/08/28-20:00:32.998 19f8 Compacting 4@0 + 1@1 files
+2025/08/28-20:00:33.027 19f8 Generated table #26@0: 4204 keys, 60138 bytes
+2025/08/28-20:00:33.027 19f8 Compacted 4@0 + 1@1 files => 60138 bytes
+2025/08/28-20:00:33.031 19f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/28-20:00:33.033 19f8 Delete type=2 #17
+2025/08/28-20:00:33.033 19f8 Delete type=2 #19
+2025/08/28-20:00:33.033 19f8 Delete type=2 #21
+2025/08/28-20:00:33.037 19f8 Delete type=2 #23
+2025/08/28-20:00:33.037 19f8 Delete type=2 #25
+2025/08/28-20:04:55.680 19f8 Level-0 table #28: started
+2025/08/28-20:04:55.692 19f8 Level-0 table #28: 15339 bytes OK
+2025/08/28-20:04:55.696 19f8 Delete type=0 #24
+2025/08/28-20:09:47.351 e88 Level-0 table #30: started
+2025/08/28-20:09:47.368 e88 Level-0 table #30: 15277 bytes OK
